@@ -1,0 +1,27 @@
+# macOS junk
+.DS_Store
+._*
+
+# assembly
+*.exe
+*.EXE
+*.com
+*.COM
+*.lst
+*.LST
+*.map
+*.MAP
+*.obj
+*.OBJ
+*.o
+*.O
+*.bin
+*.BIN
+*.hex
+*.HEX
+
+# turbo debugger junk
+*.tr
+*.TR
+*.td
+*.TD
